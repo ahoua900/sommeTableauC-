@@ -1,0 +1,11 @@
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation.deps.json
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation.runtimeconfig.json
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation.runtimeconfig.dev.json
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation.dll
+/Users/nan/Projects/formation/formation/bin/Debug/netcoreapp3.1/formation.pdb
+/Users/nan/Projects/formation/formation/obj/Debug/netcoreapp3.1/formation.csprojAssemblyReference.cache
+/Users/nan/Projects/formation/formation/obj/Debug/netcoreapp3.1/formation.AssemblyInfoInputs.cache
+/Users/nan/Projects/formation/formation/obj/Debug/netcoreapp3.1/formation.AssemblyInfo.cs
+/Users/nan/Projects/formation/formation/obj/Debug/netcoreapp3.1/formation.dll
+/Users/nan/Projects/formation/formation/obj/Debug/netcoreapp3.1/formation.pdb
