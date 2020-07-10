@@ -15,7 +15,7 @@ namespace formation
             var question = 5;
             
 
-            for (int i = 1; i < question; i++)
+            for (int i = 1; i <= question; i++)
             {
                 var Ramdom1 = ramdom1.Next(2, 10);
                 var Ramdom2 = ramdom2.Next(2, 10);
