@@ -41,10 +41,11 @@ namespace formation
             {
                 NombreDeReponseVrai += n;
             }
-
-            Console.WriteLine("vous avez repondu a " + " " +NombreDeReponseVrai );
-           
-
+            if(question)
+            {
+                Console.WriteLine("vous avez repondu a " + " " +NombreDeReponseVrai + " bonnes reponses" );
+            }
+                     
         }
     }
 }
